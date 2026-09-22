@@ -1,0 +1,18 @@
+How to install the /prototype command in Claude Code
+
+This file teaches Claude Code a custom command called /prototype. Once installed, you can type /prototype in any Claude Code session and it will automatically load all the Page Builder guidelines, Figma links, and editorial rules — no copy-pasting required.
+
+Step 1 — Find your home folder
+On a Mac, open Finder. In the menu bar click Go → Home. This is your home folder (e.g. /Users/yourname).
+
+Step 2 — Show hidden folders
+Press Cmd+Shift+. (period) in Finder. This reveals hidden folders, including one called .claude.
+
+Step 3 — Navigate to the commands folder
+Open the .claude folder. Inside it, look for a folder called commands. If it doesn't exist, create it: File → New Folder, name it commands.
+
+Step 4 — Add the file
+Download or copy the prototype.md file from this repo and drag it into the commands folder.
+
+Step 5 — Verify it works
+Open Claude Code, type /prototype, and you should see it appear as an autocomplete option.
