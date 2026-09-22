@@ -28,7 +28,7 @@ $ARGUMENTS
 ### SFDC UI & MuleSoft (Figma)
 - SFDC UI Library 2.0 Brand Refreshed: https://www.figma.com/design/gtNa7k7Q1BXro4LnQEuOHU/SFDC-%E2%80%A8UI-Library-2.0-Brand-Refreshed?m=auto
 - MuleSoft Page Builder Template Specs: https://www.figma.com/design/OExAhZRwsG0KXqsnAW1uv6/MuleSoft-Pagebuilder-Template-Specs?m=auto&t=hK0j2u20u1Oxvf6j-7
-- MuleSoft Grab & Go 2.0: https://www.figma.com/design/rfTlM5uWQE2X9DUlcpCd8H/MuleSoft---Grab---Go-2.0?m=auto&t=hK0j2u20u1Oxvf6j-7
+- MuleSoft Grab & Go 2.0: https://www.figma.com/design/Vrk94bQCjKVMrRWf5BpxUB/MuleSoft---Platform-%7C-Brand-Evolution-Guidelines---Resources?node-id=376-11422
 
 ### Editorial guidelines — apply to all placeholder and generated copy
 
